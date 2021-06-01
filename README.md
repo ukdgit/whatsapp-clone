@@ -2,6 +2,8 @@
 A MERN stack-based whatsapp clone that allows you to send messages in real time. 
 It communicates to an API implemented in Node.js that saves the changes to a database. The Node.js script also receives these changes using change streams, parsing them and publishing them to a Pusher channel so the React application can consume them.
 
+![Capture](https://user-images.githubusercontent.com/78226651/120328593-9876a880-c308-11eb-91e9-3c2c941e1b14.PNG)
+
 Prerequisites
  -  MongoDB (version 3.6 or superior)
  -  Node.js (6 or superior)
